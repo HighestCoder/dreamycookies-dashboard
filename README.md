@@ -77,5 +77,4 @@ relatorio-vendas-python/
 │
 └── README.md               # Documentação do projeto
 
-
 Observação: Caso a pasta relatorios/ não exista, ela será criada automaticamente pelo sistema.
