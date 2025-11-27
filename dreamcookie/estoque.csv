@@ -1,0 +1,21 @@
+Produto,Custo_unitario,Estoque_atual,Estoque_minimo
+Coxinha,2.0,150,40
+Pastel,3.0,120,30
+Cookie Recheado,1.5,200,50
+Hot Dog,4.0,60,20
+Refrigerante Lata,2.5,80,30
+Suco Natural,1.8,70,20
+Brownie,2.2,90,25
+Pao De Queijo,1.2,180,50
+Hamburguer,5.0,40,10
+Capuccino,2.7,55,15
+Agua Mineral,0.8,100,30
+Trufa Artesanal,1.3,75,20
+Enroladinho De Salsicha,1.5,110,35
+Empada,2.8,95,25
+Bolo No Pote,3.0,65,20
+Pipoca Doce,1.0,120,40
+Geladinho Gourmet,1.5,140,40
+Torta Fatia,3.5,50,15
+Pudim,2.0,70,15
+Misto Quente,2.2,85,25
